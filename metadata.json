@@ -1,0 +1,5 @@
+{
+  "name": "주간 계획표",
+  "description": "A digital weekly planner replicating a classic paper layout with Gemini-powered smart scheduling.",
+  "requestFramePermissions": []
+}
